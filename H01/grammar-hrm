@@ -1,0 +1,201 @@
+11 56
+P
+F
+S
+L
+C
+A
+B
+J
+X
+I
+N
+INBOX
+OUTBOX
+COPYFROM
+COPYTO
+[
+]
+ADD
+SUB
+BUMP+
+BUMP-
+JUMP
+JUMPZ
+JUMPN
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+--
+HUMAN
+RESOURCE
+MACHINE
+PROGRAM
+COMMENT
+66
+P
+F S
+S
+L
+S
+L S
+L
+INBOX
+L
+OUTBOX
+L
+C
+L
+A
+L
+B
+L
+X J
+L
+J X
+L
+X S J
+L
+J S X
+L
+COMMENT N
+C
+COPYFROM N
+C
+COPYFROM [ N ]
+C
+COPYTO N 
+C
+COPYTO [ N ]
+A
+ADD N 
+A
+ADD [ N ]
+A
+SUB N 
+A
+SUB [ N ]
+B
+BUMP+ N 
+B
+BUMP+ [ N ]
+B
+BUMP- N 
+B
+BUMP- [ N ]
+J
+JUMP I
+J
+JUMPZ I
+J
+JUMPN I
+X
+I :
+I
+a
+I
+b
+I
+c
+I
+d
+I
+e
+I
+f
+I
+g
+I
+h
+I
+i
+I
+j
+I
+k
+I
+l
+I
+m
+I
+n
+I
+o
+I
+p
+I
+q
+I
+r
+I
+s
+I
+t
+I
+u
+I
+v
+I
+w
+I
+x
+I
+y
+I
+z
+N
+0
+N
+1
+N
+2
+N
+3
+N
+4
+N
+5
+N
+6
+N
+7
+N
+8
+N
+9
+F
+-- HUMAN RESOURCE MACHINE PROGRAM --

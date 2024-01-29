@@ -1,0 +1,15 @@
+copyfiles:
+	cp $(filepath) .
+
+compile:
+	g++ -std=c++11 wine.cpp -o wine
+
+run:
+	./wine $(input) < wine.txt > $(output)
+
+list:
+	ls *.py
+
+show:
+	@echo 'Showing python file twitter-trends.py'
+	cat wine.cpp

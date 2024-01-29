@@ -1,0 +1,9 @@
+Teams still challenging are...
+New York Yankees 225 (flow = 225)
+Baltimore Orioles 213 (flow = 225)
+Boston Red Sox 207 (flow = 228)
+Toronto Blue Jays 189 (flow = 228)
+
+Teams that have been eliminated are...
+Detroit Tigers 147 (due to smaller max flow)
+Dummy 0 (as it cannot catch up)
